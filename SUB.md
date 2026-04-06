@@ -46,6 +46,7 @@ Your team name here
 - Name 2 (GitHub: @username)
 - Name 3 (GitHub: @username)
 - Name 4 (GitHub: @username)
+- Name 5 (GitHub: @username) — optional
 
 ## Idea Chosen
 (Name of the idea — e.g., "Smart Expense Splitter" or "Custom: <your idea name>")
@@ -67,7 +68,7 @@ Steps to clone and run the project on a local machine.
 Link to deployed app (Vercel / Netlify / etc.)
 
 ## Screenshots / Demo
-(Optional but recommended — add screenshots or a GIF)
+(Include a demo video or screenshots showcasing your app's features)
 ```
 
 ### 5. Commit and Push to your Fork
